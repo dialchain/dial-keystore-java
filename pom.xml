@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.plooh.adssi</groupId>
     <artifactId>dial-keystore-java</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
     <name>dial-keystore-java</name>
     <description>Dial Keystore Java</description>
     <packaging>jar</packaging>
@@ -27,7 +27,7 @@
         <connection>scm:git:git://github.com/dialchain/dial-keystore-java.git</connection>
         <developerConnection>scm:git:ssh://git@github.com/dialchain/dial-keystore-java.git</developerConnection>
         <url>https://github.com/dialchain/dial-keystore-java</url>
-        <tag>dial-keystore-java-0.0.1</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <properties>
